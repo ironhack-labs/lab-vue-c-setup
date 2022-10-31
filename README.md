@@ -45,17 +45,14 @@ We'll be following the official Vue.js guide for most of this lab.
 
 <!-- Installing the CLI -->
 
-1. The first step before creating your first Vue project will be to **install the CLI**. You only need to take this step once on your computer.
-
-You can find the instructions [in this link](https://cli.vuejs.org/guide/installation.html). Remember to add the `-g` command in order to install Vue on your computer instead of just inside a specific folder.
-
-If you're working on Mac, remember you'll need to add the keyword "sudo" before the command in order for it to work.
+1. The first step before creating your first Vue project will be to **install the CLI**. You only need to take this step once on your computer. <br>
+  You can find the instructions [in this link](https://cli.vuejs.org/guide/installation.html). <br> Remember to add the `-g` command in order to install Vue on your computer instead of just inside a specific folder.<br>
+  If you're working on Mac, remember you'll need to add the keyword "sudo" before the command in order for it to work.
 
 <!-- ## Create a new Vue project -->
 
-2. Next, you will proceed to create a new project. Creating a new project on Vue is as simple as inserting a command on your console once you've installed the CLI globally. You can see the exact steps to follow [in this link](https://vuejs.org/guide/quick-start.html#creating-a-vue-application).
-
-Once you're creating a new project, you'll be able to choose which features you want.
+2. Next, you will proceed to create a new project. Creating a new project on Vue is as simple as inserting a command on your console once you've installed the CLI globally. You can see the exact steps to follow [in this link](https://vuejs.org/guide/quick-start.html#creating-a-vue-application). <br>
+  Once you're creating a new project, you'll be able to choose which features you want.
 
 ## Instructions
 
