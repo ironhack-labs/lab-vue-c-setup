@@ -24,7 +24,7 @@ We'll be following the official Vue.js guide for most of this lab.
 - Open the LAB and start:
 
   ```bash
-  $ cd lab-vue-setup
+  $ cd lab-vue-c-setup
   $ npm install # or npm i
   $ npm run dev
   ```
